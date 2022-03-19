@@ -1,3 +1,9 @@
+**The repository has been archived since 3/19/22 as functionality no longer seems to be working. I'll keep it here for reference though.**
+
+**The repository has been archived since 3/19/22 as functionality no longer seems to be working. I'll keep it here for reference though.**
+
+**The repository has been archived since 3/19/22 as functionality no longer seems to be working. I'll keep it here for reference though.**
+
 # Cloudflare Radar
 
 *The unofficial API documentation/Postman collection for Cloudflare Radar*
